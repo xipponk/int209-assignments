@@ -1,7 +1,7 @@
 # Linux Assignment
 ## Exercise File
 * Create _wipcamp12_ directory inside your home directory
-> cd ~
+> cd ~  
 > mkdir wipcamp12
 
 * Create programmer, website, network and ux-ui directory inside _wipcamp12_ directory
